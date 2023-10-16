@@ -36,5 +36,4 @@ Feature: Title of your feature
 		When I login success
 		And I choose product
 		And I add to cart
-		And I Checkout gagal
-		Then I logout success
+		Then I Checkout gagal

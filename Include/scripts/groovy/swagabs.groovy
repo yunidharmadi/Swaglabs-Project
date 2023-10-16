@@ -75,7 +75,7 @@ class swagLabs {
 		WebUI.callTestCase(findTestCase('Test Cases/Fitur/Checkout/Checkout Success'),[:],FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@And("I Checkout gagal")
+	@Then("I Checkout gagal")
 	def checkoutGagal() {
 		WebUI.callTestCase(findTestCase('Test Cases/Fitur/Checkout/Gagal Checkout - First Name Kosong'),[:],FailureHandling.STOP_ON_FAILURE)
 	}
