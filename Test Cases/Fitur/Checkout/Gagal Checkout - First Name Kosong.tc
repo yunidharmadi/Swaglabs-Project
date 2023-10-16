@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gagal Checkout - First Name Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d44c23f1-ced1-4f59-b3ab-b301b32d7586</testCaseGuid>
+</TestCaseEntity>
